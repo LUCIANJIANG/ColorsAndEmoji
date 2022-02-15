@@ -175,4 +175,6 @@ public class Caterpillar
         System.out.println(" ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
         System.out.println(RED + name + ": CHOMP CHOMP YUM!" + WHITE);
     }
+
+
 }
